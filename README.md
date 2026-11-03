@@ -1,4 +1,3 @@
-
 [Portfolio](https://ranjanprasad.in) | [About](#about) | [Projects](#featured-projects) | [Contact](#contact)
 
 # Hello, I'm **Ranjan Prasad** 👋

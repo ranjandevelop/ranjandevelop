@@ -1,7 +1,7 @@
 
 # Hello, I'm Ranjan Prasad 👋
 
-**Frontend Engineer | Software Engineer (Frontend) | React.js | Next.js | TypeScript**
+**Full Stack Web Developer | Frontend Engineer | Software Engineer (Frontend) | React.js | Next.js | TypeScript**
 
 I'm a Frontend Engineer with **3.5+ years of professional experience** designing, developing, and maintaining scalable, production-ready web applications. I specialize in modern frontend development using React.js, Next.js, JavaScript, and TypeScript.
 
